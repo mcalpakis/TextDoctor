@@ -1,3 +1,0 @@
-<Response>
-   <Message>Hello from TextDoctor!</Message>
-</Response>
