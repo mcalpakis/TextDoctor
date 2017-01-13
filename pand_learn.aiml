@@ -1,0 +1,6 @@
+<aiml version="2.0">
+
+<category><pattern>I WANT TO BOOK AN APPOINTMENT WITH THE DOCTOR</pattern><template>What time?</template></category>
+
+
+</aiml>
